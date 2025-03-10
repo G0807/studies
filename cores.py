@@ -1,2 +1,2 @@
-print('\33[0;31;40mOla mundo!')
-print('ola mundo!')
+print('\33[0;32;45mOla mundo!')
+
